@@ -14,3 +14,7 @@
 * [Queue](https://github.com/RunnerLee/queue)
 * [Validator](https://github.com/RunnerLee/validator)
 * [Phalcon ORM](https://github.com/xueron/fastd-phalcon)
+
+### Swoole Projects
+
+* [easy-swoole](https://github.com/easy-swoole/easyswoole)
