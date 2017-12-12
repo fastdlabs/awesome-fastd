@@ -18,3 +18,4 @@
 ### Swoole Projects
 
 * [easy-swoole](https://github.com/easy-swoole/easyswoole)
+* [swoft](https://github.com/swoft-cloud/swoft)
