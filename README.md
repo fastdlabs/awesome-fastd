@@ -17,5 +17,6 @@
 
 ### Swoole Projects
 
-* [easy-swoole](https://github.com/easy-swoole/easyswoole)
-* [swoft](https://github.com/swoft-cloud/swoft)
+* [easy-swoole 高性能PHP框架](https://github.com/easy-swoole/easyswoole)
+* [swoft 高性能PHP协程框架](https://github.com/swoft-cloud/swoft)
+* [swoole-jobs 分布式job调度系统](https://github.com/kcloze/swoole-jobs)
