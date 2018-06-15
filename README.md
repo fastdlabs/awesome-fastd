@@ -14,6 +14,7 @@
 * [Queue](https://github.com/RunnerLee/queue)
 * [Validator](https://github.com/RunnerLee/validator)
 * [Phalcon ORM](https://github.com/xueron/fastd-phalcon)
+* [Multi Level Cache](https://github.com/longxinH/fastd-cache)
 
 ### Swoole Projects
 
