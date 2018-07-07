@@ -4,6 +4,23 @@
 
 * [FastDLabs](https://github.com/fastdlabs)
 
+### Components
+
+* [swoole](https://github.com/fastdlabs/swoole)
+* [migration](https://github.com/fastdlabs/migration)
+* [http](https://github.com/fastdlabs/http)
+* [event](https://github.com/fastdlabs/event)
+* [session](https://github.com/fastdlabs/session)
+* [routing](https://github.com/fastdlabs/routing)
+* [config](https://github.com/fastdlabs/config)
+* [container](https://github.com/fastdlabs/container)
+* [middleware](https://github.com/fastdlabs/middleware)
+* [testing](https://github.com/fastdlabs/testing)
+* [utils](https://github.com/fastdlabs/utils)
+* [packet](https://github.com/fastdlabs/packet)
+* [annotation](https://github.com/fastdlabs/annotation)
+* [generator](https://github.com/fastdlabs/generator)
+
 ### Service Provider
 
 * [FastD ServiceProvider](https://github.com/linghit/service-provider)
