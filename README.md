@@ -21,3 +21,13 @@
 * [easy-swoole 高性能PHP框架](https://github.com/easy-swoole/easyswoole)
 * [swoft 高性能PHP协程框架](https://github.com/swoft-cloud/swoft)
 * [swoole-jobs 分布式job调度系统](https://github.com/kcloze/swoole-jobs)
+
+### Profiling
+
+* [php-xhprof-extension](https://github.com/tideways/php-xhprof-extension)
+* [php-spx](https://github.com/NoiseByNorthwest/php-spx)
+* [forp-PHP-profiler](https://github.com/aterrien/forp-PHP-profiler)
+* [Molten](https://github.com/chuan-yun/Molten)
+* [netdata](https://github.com/firehol/netdata)
+* [pinpoint](https://github.com/naver/pinpoint)
+* [PHP7-forp](https://github.com/Shies/PHP7-forp)
